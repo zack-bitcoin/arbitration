@@ -2,7 +2,7 @@
 instructions and software to build derivatives out of 2-of-3 multisig contracts
 
 
-I know people are wanting to trade AE. I am disappointed and embarrassed that the team has not yet delivered a trade-able token This is the best that I can do to help.
+I know people are wanting to trade AE. Aeternity has not yet delivered a trade-able token This is the best that I can do to help.
 
 here is my address 15C9sgbvyurrfioFXFqtxw7XNAE3opfBru here is my master pubkey xpub661MyMwAqRbcGZtCGtNmzobsXhwbJP4iWwR7DvnevbaVzvDVhVM7fSRFAKPCrhUtmSCxoamzeUubsji8zJTYA6uP4JxxR4ZtVQrsU2NHV8t
 
