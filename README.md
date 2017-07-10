@@ -4,7 +4,10 @@ instructions and software to build derivatives out of 2-of-3 multisig contracts
 
 I know people are wanting to trade AE. Aeternity has not yet delivered a trade-able token This is the best that I can do to help.
 
-here is my address 15C9sgbvyurrfioFXFqtxw7XNAE3opfBru here is my master pubkey xpub661MyMwAqRbcGZtCGtNmzobsXhwbJP4iWwR7DvnevbaVzvDVhVM7fSRFAKPCrhUtmSCxoamzeUubsji8zJTYA6uP4JxxR4ZtVQrsU2NHV8t
+here is my address bitcoin 15C9sgbvyurrfioFXFqtxw7XNAE3opfBru here is my bitcoin master pubkey xpub661MyMwAqRbcGZtCGtNmzobsXhwbJP4iWwR7DvnevbaVzvDVhVM7fSRFAKPCrhUtmSCxoamzeUubsji8zJTYA6uP4JxxR4ZtVQrsU2NHV8t
+
+here is my ethereum address 0xB115fF254Db344B6FcE9a8543388D3eC6471902f
+I am not sure how to get an ethereum pubkey
 
 I charge either 0.08 bitcoin, or 5% of the traded amount. Whichever is bigger. I'm sorry I can't charge less. My time is very valuable right now, I need to focus on building Aeternity. Hopefully someone else will soon offer this same service at a better price. Be very careful who you trust.
 
